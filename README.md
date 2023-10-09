@@ -1,4 +1,4 @@
-# Email scraper
+# google-email-scraper
 
 Simple cli tool that takes search query, take n google result pages, and scrape websites for emails.
 
